@@ -20,3 +20,5 @@ urlpatterns = [
     path('rest/', include('rest.urls')),
     path('admin/', admin.site.urls),
 ]
+
+#new
